@@ -83,6 +83,14 @@ npm run dev
 
    The application will be served at `http://localhost:3000`.
 
+### Deploying to Vercel
+
+This project is configured for easy deployment on Vercel.
+
+1. Push your code to a Git repository (GitHub, GitLab, Bitbucket).
+2. Import the project into Vercel.
+3. Vercel will automatically detect the configuration from `vercel.json` and deploy the client as a static site.
+
 ## Project Structure
 
 ```text
