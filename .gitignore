@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+client/node_modules/
+
+# Build output
+client/dist/
+
+# System
+.DS_Store
+
+# Project status tracking (ignored as requested)
+status.md
